@@ -1,3 +1,19 @@
-h1{
-	text-align: center;
+#header-nav{
+	background-color: lightgray;
+	border: 1px solid gray;
+	border-radius: 0;
+
+}
+
+a strong {
+	color: black;
+}
+
+#boton, #boton span {
+	border: 1px solid black;
+}
+
+#chicken, #beef, #sushi{
+	background-color: lightgray;
+	border: 15px solid white;
 }
